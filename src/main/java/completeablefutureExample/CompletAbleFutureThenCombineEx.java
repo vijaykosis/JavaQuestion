@@ -10,7 +10,7 @@ public class CompletAbleFutureThenCombineEx {
         CompletableFuture<Integer> cf = CompletableFuture.supplyAsync(() ->
         {
             int x = ThreadLocalRandom.current().nextInt(0, 5);
-            System.out.println("Main Stage::" + x);
+            System.out.println("MultiThreading.Main Stage::" + x);
             return x;
         });
 
