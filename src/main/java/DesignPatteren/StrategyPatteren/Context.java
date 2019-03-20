@@ -1,4 +1,4 @@
-package DesignPatteren;
+package DesignPatteren.StrategyPatteren;
 
 class OperationAdd implements Strategy {
     @Override

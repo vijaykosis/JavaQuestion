@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaQuestion.iml" filepath="$PROJECT_DIR$/JavaQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pictures/HBM/hibernate-lazy-load-entity-reference/hibernate-test-project/hibernate-test-project.iml" filepath="$PROJECT_DIR$/../Pictures/HBM/hibernate-lazy-load-entity-reference/hibernate-test-project/hibernate-test-project.iml" />
     </modules>
   </component>
 </project>

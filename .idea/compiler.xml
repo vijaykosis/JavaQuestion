@@ -16,10 +16,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hibernate-test-project" />
         <module name="JavaQuestion" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hibernate-test-project" target="1.5" />
       <module name="JavaQuestion" target="8" />
     </bytecodeTargetLevel>
   </component>
